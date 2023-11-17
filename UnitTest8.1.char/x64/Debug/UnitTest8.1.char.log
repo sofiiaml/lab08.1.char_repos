@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest8.1.char.cpp
+C:\Users\User\Desktop\АП\Pr08.1.char\UnitTest8.1.char\UnitTest8.1.char.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\User\Desktop\АП\Pr08.1.char\UnitTest8.1.char\UnitTest8.1.char.cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\User\Desktop\АП\Pr08.1.char\UnitTest8.1.char\UnitTest8.1.char.cpp(1,1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\User\Desktop\АП\Pr08.1.char\UnitTest8.1.char\UnitTest8.1.char.cpp(1,1): message : Add macro to precompiled header instead of defining here
+C:\Users\User\Desktop\АП\Pr08.1.char\UnitTest8.1.char\UnitTest8.1.char.cpp(2,1): message : use of precompiled header
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(1,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(11,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(17,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(24,15): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(50,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(57,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(65,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(72,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(80,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\Desktop\АП\Pr08.1.char\Pr08.1.char\Pr08.1.char.cpp(87,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+     Creating library C:\Users\User\Desktop\АП\Pr08.1.char\x64\Debug\UnitTest8.1.char.lib and object C:\Users\User\Desktop\АП\Pr08.1.char\x64\Debug\UnitTest8.1.char.exp
+  UnitTest8.1.char.vcxproj -> C:\Users\User\Desktop\АП\Pr08.1.char\x64\Debug\UnitTest8.1.char.dll
